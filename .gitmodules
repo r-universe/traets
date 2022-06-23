@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "idefix"]
+	path = idefix
+	url = https://github.com/traets/idefix
+	shallow = true
+	registered = true
